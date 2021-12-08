@@ -1,23 +1,29 @@
 # Kamus PHP
 
--   [Array Functions](https://www.php.net/manual/en/ref.array.php)
-    -   [count](https://www.php.net/manual/en/function.count.php) — Menghitung semua elemen dalam array
-    -   [end](https://www.php.net/manual/en/function.end.php) — Mengembalikan elemen terakhir dalam array
-    -   [in_array](https://www.php.net/manual/en/function.in-array.php) — Memeriksa apakah ada nilai dalam array
--   [String Functions](https://github.com/madfauzy/Documentation/blob/main/README.md#string-functions)
-    -   [Htmlspecialchars](https://github.com/madfauzy/Documentation/blob/main/README.md#htmlspecialchars)
-    -   [Stripslashes](https://github.com/madfauzy/Documentation/blob/main/README.md#stripslashes)
-    -   [Trim](https://github.com/madfauzy/Documentation/blob/main/README.md#trim)
--   [Variable Handling Functions](https://github.com/madfauzy/Documentation/blob/main/README.md#variable-handling-functions)
-    -   [Empty](https://github.com/madfauzy/Documentation/blob/main/README.md#empty)
--   [Filesystem Functions](https://github.com/madfauzy/Documentation/blob/main/README.md#filesystem-functions)
-    -   [Unlink](https://github.com/madfauzy/Documentation/blob/main/README.md#unlink)
-    -   [Pathinfo](https://github.com/madfauzy/Documentation/blob/main/README.md#pathinfo)
-    -   [File_exists](https://github.com/madfauzy/Documentation/blob/main/README.md#file_exists)
-    -   [Move_uploaded_file](https://github.com/madfauzy/Documentation/blob/main/README.md#move_uploaded_file)
--   [Math Functions](https://github.com/madfauzy/Documentation/blob/main/README.md#math-functions)
-    -   [Rand](https://github.com/madfauzy/Documentation/blob/main/README.md#rand)
--   [MySQLI](https://github.com/madfauzy/Documentation/blob/main/README.md#mysqli)
-    -   [Mysqli_real_escape_string](https://github.com/madfauzy/Documentation/blob/main/README.md#mysqli_real_escape_string)
--   [Password Hashing Functions](https://github.com/madfauzy/Documentation/blob/main/README.md#mysqli)
-    -   [Password_hash](https://github.com/madfauzy/Documentation/blob/main/README.md#password_hash)
+##  [Array Functions](https://www.php.net/manual/en/ref.array.php)
+-   [count](https://www.php.net/manual/en/function.count.php) — Menghitung semua elemen dalam array
+-   [end](https://www.php.net/manual/en/function.end.php) — Mengembalikan elemen terakhir dalam array
+-   [in_array](https://www.php.net/manual/en/function.in-array.php) — Memeriksa apakah ada nilai dalam array
+
+##  [String Functions]()
+-   [Htmlspecialchars]()
+-   [Stripslashes]()
+-   [Trim]()
+
+##  [Variable Handling Functions]()
+-   [Empty]()
+
+##  [Filesystem Functions]()
+-   [Unlink]()
+-   [Pathinfo]()
+-   [File_exists]()
+-   [Move_uploaded_file]()
+
+##  [Math Functions]()
+-   [Rand]()
+
+##  [MySQLI]()
+-   [Mysqli_real_escape_string]()
+
+##  [Password Hashing Functions]()
+-   [Password_hash]()
