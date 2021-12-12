@@ -20,6 +20,7 @@
 
 ##  [Filesystem Functions](https://www.php.net/manual/en/ref.filesystem.php)
 -   [file_exists](https://www.php.net/manual/en/function.file-exists) — Memeriksa apakah ada file atau direktori
+-   [move_uploaded_file](https://www.php.net/manual/en/function.move-uploaded-file) — Memindahkan file yang diunggah ke lokasi baru
 -   [pathinfo](https://www.php.net/manual/en/function.pathinfo) — Mengembalikan informasi tentang path file
 -   [unlink](https://www.php.net/manual/en/function.unlink.php) — Menghapus file
 
