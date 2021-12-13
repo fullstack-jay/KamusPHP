@@ -33,6 +33,14 @@
 -   [password_hash](https://www.php.net/manual/en/function.password-hash) — Membuat hash kata sandi
 -   [password_verify](https://www.php.net/manual/en/function.password-verify) — Memverifikasi bahwa kata sandi cocok dengan hash
 
+##  [Session Functions](https://www.php.net/manual/en/ref.session.php)
+-   [session_start](https://www.php.net/manual/en/function.session-start.php) — Mulai baru atau lanjutkan sesi yang ada
+-   [session_unset](https://www.php.net/manual/en/function.session-unset.php) — Bebaskan semua variabel sesi
+-   [session_destroy](https://www.php.net/manual/en/function.session-destroy.php) — Hancurkan semua data yang terdaftar ke sesi
+
+##  [Network Functions](https://www.php.net/manual/en/ref.network.php)
+-   [header](https://www.php.net/manual/en/function.header) — Kirim raw HTTP header
+
 ##  [Math Functions](https://www.php.net/manual/en/ref.math.php)
 -   [rand](https://www.php.net/manual/en/function.rand) — Hasilkan bilangan bulat acak
 
