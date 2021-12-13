@@ -31,6 +31,7 @@
 
 ##  [Password Hashing Functions](https://www.php.net/manual/en/ref.password.php)
 -   [password_hash](https://www.php.net/manual/en/function.password-hash) — Membuat hash kata sandi
+-   [password_verify](https://www.php.net/manual/en/function.password-verify) — Memverifikasi bahwa kata sandi cocok dengan hash
 
 ##  [Math Functions](https://www.php.net/manual/en/ref.math.php)
 -   [rand](https://www.php.net/manual/en/function.rand) — Hasilkan bilangan bulat acak
