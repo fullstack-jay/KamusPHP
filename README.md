@@ -45,6 +45,9 @@
 -   [header](https://www.php.net/manual/en/function.header) — Kirim raw HTTP header
 -   [setcookie](https://www.php.net/manual/en/function.setcookie.php) — Kirim cookie
 
+##  [Date/Time Functions](https://www.php.net/manual/en/ref.datetime.php)
+-   [time](https://www.php.net/manual/en/function.time) — Kembalikan stempel waktu Unix saat ini
+
 ##  [Math Functions](https://www.php.net/manual/en/ref.math.php)
 -   [rand](https://www.php.net/manual/en/function.rand) — Hasilkan bilangan bulat acak
 
