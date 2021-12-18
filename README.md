@@ -5,7 +5,7 @@
 -   [in_array](https://www.php.net/manual/en/function.in-array) — Memeriksa apakah ada nilai dalam array
 
 ##  [Date/Time Functions](https://www.php.net/manual/en/ref.datetime.php)
--   [time](https://www.php.net/manual/en/function.time) — Kembalikan stempel waktu Unix saat ini
+-   [time](https://www.php.net/manual/en/function.time) — Mengambil waktu sekarang pada komputer server dalam format timestamp
 
 ##  [Filesystem Functions](https://www.php.net/manual/en/ref.filesystem.php)
 -   [file_exists](https://www.php.net/manual/en/function.file-exists) — Memeriksa apakah ada file atau direktori
@@ -14,10 +14,13 @@
 -   [unlink](https://www.php.net/manual/en/function.unlink.php) — Menghapus file
 
 ##  [Hash Functions](https://www.php.net/manual/en/ref.hash.php)
--   [hash](https://www.php.net/manual/en/function.hash.php) — Menghasilkan nilai hash (message digest)
+-   [hash](https://www.php.net/manual/en/function.hash.php) — Menghasilkan nilai hash
 
 ##  [Math Functions](https://www.php.net/manual/en/ref.math.php)
+-   [ceil](https://www.php.net/manual/en/function.ceil.php) — Pembulatan ke atas
+-   [floor](https://www.php.net/manual/en/function.floor.php) — Pembulatan ke bawah
 -   [rand](https://www.php.net/manual/en/function.rand) — Hasilkan bilangan bulat acak
+-   [round](https://www.php.net/manual/en/function.round.php) — Pembulatan bilangan terdekat
 
 ##  [Misc. Functions](https://www.php.net/manual/en/ref.misc.php)
 -   [uniqid](https://www.php.net/manual/en/function.uniqid) — Buat ID unik
