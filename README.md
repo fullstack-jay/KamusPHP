@@ -40,6 +40,9 @@
 -   [password_hash](https://www.php.net/manual/en/function.password-hash) — Membuat hash kata sandi
 -   [password_verify](https://www.php.net/manual/en/function.password-verify) — Memverifikasi bahwa kata sandi cocok dengan hash
 
+##  [PCRE Functions](https://www.php.net/manual/en/ref.pcre.php)
+-   [preg_match](https://www.php.net/manual/en/function.preg-match) — Lakukan pencocokan ekspresi reguler
+
 ##  [Session Functions](https://www.php.net/manual/en/ref.session.php)
 -   [session_start](https://www.php.net/manual/en/function.session-start.php) — Mulai baru atau lanjutkan sesi yang ada
 -   [session_unset](https://www.php.net/manual/en/function.session-unset.php) — Bebaskan semua variabel sesi
