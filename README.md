@@ -1,7 +1,9 @@
 # Kamus PHP
 
 ##  [Array Functions](https://www.php.net/manual/en/ref.array.php)
+-   [array_sum](https://www.php.net/manual/en/function.array-sum.php) — Hitung jumlah nilai dalam array
 -   [count](https://www.php.net/manual/en/function.count.php) — Menghitung semua elemen dalam array
+-   [end](https://www.php.net/manual/en/function.end.php) — Atur pointer internal array ke elemen terakhirnya
 -   [in_array](https://www.php.net/manual/en/function.in-array) — Memeriksa apakah ada nilai dalam array
 
 ##  [Date/Time Functions](https://www.php.net/manual/en/ref.datetime.php)
@@ -23,6 +25,10 @@
 -   [round](https://www.php.net/manual/en/function.round.php) — Pembulatan bilangan terdekat
 
 ##  [Misc. Functions](https://www.php.net/manual/en/ref.misc.php)
+-   [define](https://www.php.net/manual/en/function.define.php) — Mendefinisikan konstanta bernama
+-   [die](https://www.php.net/manual/en/function.die.php) — Setara dengan exit
+-   [exit](https://www.php.net/manual/en/function.exit.php) — Keluarkan pesan dan hentikan skrip saat ini
+-   [sleep](https://www.php.net/manual/en/function.sleep) — Eksekusi tunda
 -   [uniqid](https://www.php.net/manual/en/function.uniqid) — Buat ID unik
 
 ##  [MySQLi](https://www.php.net/manual/en/book.mysqli.php)
@@ -51,11 +57,14 @@
 ##  [String Functions](https://www.php.net/manual/en/ref.strings.php)
 -   [htmlspecialchars](https://www.php.net/manual/en/function.htmlspecialchars.php) — Ubah karakter khusus menjadi entitas HTML
 -   [md5](https://www.php.net/manual/en/function.md5) — Hitung hash md5 dari sebuah string
--   [stripslashes](https://www.php.net/manual/en/function.stripslashes) — Hapus tanda kutip dari string yang dikutip
--   [strtolower](https://www.php.net/manual/en/function.strtolower) — Buat string menjadi huruf kecil
 -   [str_replace](https://www.php.net/manual/en/function.str-replace) — Ganti semua kemunculan string pencarian dengan string pengganti
+-   [stripslashes](https://www.php.net/manual/en/function.stripslashes) — Hapus tanda kutip dari string yang dikutip
+-   [strlen](https://www.php.net/manual/en/function.strlen.php) — Dapatkan panjang string
+-   [strtolower](https://www.php.net/manual/en/function.strtolower) — Buat string menjadi huruf kecil
+-   [strtoupper](https://www.php.net/manual/en/function.strtoupper.php) — Buat string menjadi huruf besar
 -   [trim](https://www.php.net/manual/en/function.trim) — Hapus spasi (atau karakter lain) dari awal dan akhir string
 
 ##  [Variable Handling Functions](https://www.php.net/manual/en/ref.var.php)
--   [isset](https://www.php.net/manual/en/function.isset.php) — Tentukan apakah suatu variabel dideklarasikan dan berbeda dari null
 -   [empty](https://www.php.net/manual/en/function.empty) — Tentukan apakah suatu variabel kosong
+-   [isset](https://www.php.net/manual/en/function.isset.php) — Tentukan apakah suatu variabel dideklarasikan dan berbeda dari null
+-   [unset](https://www.php.net/manual/en/function.unset.php) — Hapus variabel yang diberikan
