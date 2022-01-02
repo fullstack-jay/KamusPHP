@@ -30,6 +30,7 @@
 -   [exit](https://www.php.net/manual/en/function.exit.php) — Keluarkan pesan dan hentikan skrip saat ini
 -   [sleep](https://www.php.net/manual/en/function.sleep) — Eksekusi tunda
 -   [uniqid](https://www.php.net/manual/en/function.uniqid) — Buat ID unik
+-   [usleep](https://www.php.net/manual/en/function.usleep.php) — Penundaan eksekusi dalam mikrodetik
 
 ##  [MySQLi](https://www.php.net/manual/en/book.mysqli.php)
 -   [mysqli_connect](https://www.php.net/manual/en/function.mysqli-connect.php) — Buka koneksi baru ke server MySQL
