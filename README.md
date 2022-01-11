@@ -7,6 +7,8 @@
 -   [in_array](https://www.php.net/manual/en/function.in-array) — Memeriksa apakah ada nilai dalam array
 
 ##  [Date/Time Functions](https://www.php.net/manual/en/ref.datetime.php)
+-   [date](https://www.php.net/manual/en/function.date.php) — Format waktu/tanggal setempat
+-   [mktime](https://www.php.net/manual/en/function.mktime.php) — Dapatkan stempel waktu Unix untuk date
 -   [time](https://www.php.net/manual/en/function.time) — Mengambil waktu sekarang pada komputer server dalam format timestamp
 
 ##  [Filesystem Functions](https://www.php.net/manual/en/ref.filesystem.php)
